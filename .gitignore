@@ -1,0 +1,18 @@
+ Archivos de MacOS
+
+.DS_Store
+
+# Archivos de Windows
+
+Thumbs.db
+Desktop.ini
+
+# Archivos de log y errores
+
+*.log
+*.err
+
+# Metadatos y configuraciones de IDE/Editores
+
+.vscode/
+.idea/
