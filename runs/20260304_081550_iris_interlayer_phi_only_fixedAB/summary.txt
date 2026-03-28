@@ -1,0 +1,15 @@
+run_dir: runs/20260304_081550_iris_interlayer_phi_only_fixedAB
+created_at: 2026-03-04T08:15:50.622
+tag: iris_interlayer_phi_only_fixedAB
+
+meta:
+  epochs: 200
+  lr: 0.05
+  clip_value: 3.0
+  phase: phi_only_fixedAB
+  seed: 123
+  lambda: 0.0
+  alpha_smooth: 0.001
+
+best_val_acc=0.9583333333333334
+best_epoch=103

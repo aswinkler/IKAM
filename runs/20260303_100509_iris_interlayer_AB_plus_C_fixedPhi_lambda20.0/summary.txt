@@ -1,0 +1,19 @@
+run_dir: runs/20260303_100509_iris_interlayer_AB_plus_C_fixedPhi_lambda20.0
+created_at: 2026-03-03T10:05:09.765
+tag: iris_interlayer_AB_plus_C_fixedPhi_lambda20.0
+
+meta:
+  Q: 9
+  lr: 0.05
+  n_in: 4
+  m_out: 3
+  lambda: 20.0
+  epochs: 200
+  clip_norm: 5.0
+  I2_size: 6
+  phase: AB_plus_C_PhixedPhi
+  seed: 123
+  K: 8
+
+best_val_acc=0.8333333333333334
+best_epoch=200

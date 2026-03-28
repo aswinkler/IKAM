@@ -1,0 +1,22 @@
+run_dir: runs/20260327_154342_iris_interlayer_full_AB_phi_C
+created_at: 2026-03-27T15:43:42.132
+tag: iris_interlayer_full_AB_phi_C
+
+meta:
+  Q: 9
+  lr: 0.03
+  n_in: 4
+  m_out: 3
+  clip_value: 3.0
+  alpha_smooth: 0.001
+  warmup_epochs: 20
+  epochs: 300
+  lambda_max: 20.0
+  I2_size: 6
+  phase: full_AB_phi_C
+  seed: 123
+  K: 8
+  beta_C: 0.001
+
+best_val_acc=0.9583333333333334
+best_epoch=155

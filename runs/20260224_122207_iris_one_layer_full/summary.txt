@@ -1,0 +1,17 @@
+run_dir: runs/20260224_122207_iris_one_layer_full
+created_at: 2026-02-24T12:22:07.332
+tag: iris_one_layer_full
+
+meta:
+  epochs: 300
+  Q: 9
+  lr: 0.02
+  n_in: 4
+  phase: affine_plus_inner_values
+  seed: 123
+  m_out: 3
+  K: 8
+
+best_val_acc=0.8333333333333334
+best_epoch=294
+run_dir=runs/20260224_122207_iris_one_layer_full

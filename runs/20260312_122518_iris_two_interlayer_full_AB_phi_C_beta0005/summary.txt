@@ -1,0 +1,27 @@
+run_dir: runs/20260312_122518_iris_two_interlayer_full_AB_phi_C
+created_at: 2026-03-12T12:25:18.098
+tag: iris_two_interlayer_full_AB_phi_C
+
+meta:
+  lr: 0.03
+  layer2_I2_size: 10
+  layer1_n_in: 4
+  layer2_m_out: 3
+  layer1_I2_size: 6
+  layer2_K: 8
+  clip_value: 3.0
+  layer1_K: 8
+  layer2_n_in: 5
+  alpha_smooth: 0.001
+  warmup_epochs: 20
+  layer1_Q: 9
+  layer2_Q: 11
+  epochs: 200
+  layer1_m_out: 5
+  lambda_max: 20.0
+  phase: two_layer_full_AB_phi_C
+  seed: 123
+  beta_C: 0.0005
+
+best_val_acc=0.8333333333333334
+best_epoch=164

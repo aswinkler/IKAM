@@ -1,0 +1,19 @@
+run_dir: runs/20260225_085603_iris_two_layer_full
+created_at: 2026-02-25T08:56:03.812
+tag: iris_two_layer_full
+
+meta:
+  epochs: 400
+  lr: 0.01
+  n_in: 4
+  Q1: 9
+  phase: two_layer_full
+  seed: 123
+  Q2: 11
+  m_out: 3
+  K: 8
+  d: 5
+
+best_val_acc=0.3333333333333333
+best_epoch=1
+run_dir=runs/20260225_085603_iris_two_layer_full

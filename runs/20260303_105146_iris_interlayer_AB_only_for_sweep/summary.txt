@@ -1,0 +1,14 @@
+run_dir: runs/20260303_105146_iris_interlayer_AB_only_for_sweep
+created_at: 2026-03-03T10:51:46.278
+tag: iris_interlayer_AB_only_for_sweep
+
+meta:
+  epochs: 200
+  Q: 9
+  lr: 0.05
+  n_in: 4
+  phase: inter_affine_only
+  seed: 123
+  lambda: 0.0
+  m_out: 3
+  K: 8
